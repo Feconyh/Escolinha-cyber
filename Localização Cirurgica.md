@@ -1,5 +1,3 @@
-<img width="1457" height="764" alt="image" src="https://github.com/user-attachments/assets/26be24d5-ce6a-4382-8bca-5380af0e900d" /># Localização Cirúrgica
-
 ### Introdução
 Iniciamos com essa imagem e a dica
 "Um monumento conhecido mundialmente pode ser encontrado em segundos. O verdadeiro desafio é descobrir exatamente onde o fotógrafo estava por meio de uma combinação de três palavras."
